@@ -4,6 +4,8 @@ I'm a kiwi web developer, based in London who enjoys coding, people and travel! 
 
 I'm working full-time at Suade Labs, but in my spare time, I work on some OSS here. I als work on a product I've created called TrainFinder to help find cheap trains here in the UK - https://trainfinder.app
 
+twitter.com/matt_elen
+polywork.com/mattelen
 
 <!--
 **mattelen/mattelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
